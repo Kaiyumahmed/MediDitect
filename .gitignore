@@ -1,4 +1,36 @@
-# Miscellaneous
+.dart_tool/
+.idea/
+.vscode/
+.DS_Store
+.packages
+pubspec.lock
+/.dart_tool/
+/.flutter-plugins
+/.flutter-plugins-dependencies
+/.packages
+/.pub-cache
+build/
+/.gradle/
+/.idea/
+android/.gradle/
+android/local.properties
+ios/Pods/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Runner/GeneratedPluginRegistrant.*
+*.iml
+*.ipr
+*.iws
+*.log
+*.lock
+*.keystore
+key.properties
+secrets.json
+*.jpg
+*.png
+*.tflite
+assets/labels.txt# Miscellaneous
 *.class
 *.log
 *.pyc
